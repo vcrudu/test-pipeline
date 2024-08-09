@@ -10,10 +10,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: OpenFolder
-        run: cd ./dot-net-app
       - name: Build
-        run: dotnet build
+        run: dotnet build ./dot-net-app/dot-net-app.sln
       - name: Test
         run: dotnet test
 
