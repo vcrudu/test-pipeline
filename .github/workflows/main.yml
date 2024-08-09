@@ -13,7 +13,7 @@ jobs:
       - name: Build
         run: dotnet build ./dot-net-app/dot-net-app.sln
       - name: Test
-        run: dotnet test
+        run: dotnet test ./dot-net-app/dot-net-app-test/dot-net-app-test.csproj
 
   deploy:
     needs: build
