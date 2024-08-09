@@ -1,0 +1,15 @@
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/bin/Debug/net6.0/dot-net-app
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/bin/Debug/net6.0/dot-net-app.deps.json
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/bin/Debug/net6.0/dot-net-app.runtimeconfig.json
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/bin/Debug/net6.0/dot-net-app.dll
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/bin/Debug/net6.0/dot-net-app.pdb
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/obj/Debug/net6.0/dot-net-app.csproj.AssemblyReference.cache
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/obj/Debug/net6.0/dot-net-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/obj/Debug/net6.0/dot-net-app.AssemblyInfoInputs.cache
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/obj/Debug/net6.0/dot-net-app.AssemblyInfo.cs
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/obj/Debug/net6.0/dot-net-app.csproj.CoreCompileInputs.cache
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/obj/Debug/net6.0/dot-net-app.dll
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/obj/Debug/net6.0/refint/dot-net-app.dll
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/obj/Debug/net6.0/dot-net-app.pdb
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/obj/Debug/net6.0/dot-net-app.genruntimeconfig.cache
+/Users/victorcrudu/Code/DataAnotation/test-pipeline/dot-net-app/dot-net-app/obj/Debug/net6.0/ref/dot-net-app.dll
