@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Build
-        run: dotnet build ./dot-net-app/dot-net-app.sln
+        run: dotnet build ../../dot-net-app/dot-net-app.sln
       - name: Test
         run: dotnet test
 
